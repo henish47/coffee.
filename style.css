@@ -1,0 +1,693 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.sec_1 {
+    background-image: url('./nav img-1.jpg');
+    
+}
+#coffo{
+    margin-left: 6vw;
+    font-size: 4vw;
+    font-weight: 700;
+}
+#ul{
+    margin-left: 5vw;
+    font-size: 2vw;
+}
+#ul li{
+    margin-left: 3vw;
+}
+
+
+
+#sec_2_img {
+    /* height: 30% !important; */
+    opacity: 0.9;
+}
+.main-1{
+    margin-top: 0px;
+}
+
+.main_1_containt {
+    background-image: url('./nav img-1.jpg');
+    background-size: cover;
+    height: 633px;
+}
+
+#hedding_1_CoffeShop{
+    color: white;
+    padding-left: 7vw;
+    padding-top: 5vw;
+    font-size: 6vw;
+}
+#main_1_para{
+    color: white;
+    padding-left: 7vw;
+    padding-top: 2vw;
+    font-size: 1.9vw;
+}
+#main_1_btn{
+    /* background-color: crimson; */
+    /* color: white; */
+    /* padding: 1vw 3vw; */
+    /* border: none; */
+    border-radius: 5px;
+    font-size: 2.5vw;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    margin-left: 7vw;
+    margin-top: 3vw;
+}
+.main-3{
+    margin-top:10vw;
+}
+#About_Our_shop{
+    font-weight: 700;
+    /* padding-left: 3vw; */
+    font-size: 4vw;
+}
+#Coffee_distribution{
+    font-weight: 400;
+    font-size: 2.5vw;
+    /* padding-left: 3vw; */
+}
+#main_3_para{
+    /* margin-left: 2vw; */
+    font-size: 1.3vw;
+}
+.Read_more{
+    /* margin-left: 3vw; */
+    width: 9vw;
+    height: 8vh;
+    font-size: 1.2vw;
+}
+
+
+
+.navbar-toggler {
+    border-color: white; 
+}
+.card-body h3{
+    margin-top: 2vw;
+}
+.card-body p{
+    margin-top: 2vw;
+}
+
+.card-body a{
+    margin-left: 3vw;
+    margin-top: 2vw;
+}
+.card{
+    box-shadow: 4px 2px 2px 2px solid gray;
+}
+
+.navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"%3E%3Cpath stroke="white" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"/%3E%3C/svg%3E'); 
+}
+
+.navbar-toggler:focus {
+    box-shadow: none; 
+}
+.row{
+    margin-top: 5vw;
+}
+#OUR_Coffee_OFFER{
+    text-align: center;
+    font-size: 3vw;
+    font-weight: 800;
+    margin-top: 5vw;
+    
+}
+.df_1{
+    display: flex;
+    margin-top: 4vw;
+    /* margin-left: 2vw; */
+}
+.joy_moark{
+    margin-left: 3vw;
+}
+#What_syas_customers{
+    margin-top: 3vw;
+    font-weight: 800;
+}
+#Joy{
+    font-size: 2vw;
+    font-weight: 900;
+}
+#main-5_p{
+    font-size: 1.2vw;
+    margin-top: 2vw;
+    font-weight: 300;
+    width: 56vw;
+}
+.main_6_box{
+   
+    width: 629px;
+    
+}
+#main_6_b_2{
+    margin-left: 2vw;
+}
+.main_h2{
+    font-size: 1.5vw;
+    margin-top: 2vw;
+    font-weight: 800;
+}
+.main_6_pera{
+    font-size: 1vw;
+    margin-top: 2vw;
+}
+
+/* main-7 */
+.main-4{
+    margin-top: 15vw;
+}
+input{
+    width: 50vw;
+    margin-top: 1.9vw;
+    height: 0vh;
+    border-radius: 50px;
+    padding: 1.5vw;
+    padding-left: 3vw;
+    font-size: 1.5vw;
+    color: black;
+    font-weight: 300;
+    border: none;
+    background: rgb(210, 208, 208);
+}
+.send{
+    margin-top: 1.9vw;
+    width: 10vw;
+    height: 6vh;
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 1.5vw;
+    transition: background-color 0.4s ease-in-out;
+}
+
+.send:hover{
+    background-color: rgb(210, 208, 208);
+    color: #000;
+    transition: 1s;
+}
+
+/* main-8 */
+
+.main-8{
+    margin-top: 7vw;
+    /* height: 20vh; */
+}
+.main-8 img{
+    width: 100%;
+}
+
+/* main-9 */
+.main-9{
+    background: #282727;
+    margin-top: -67px;
+    padding-left: 600px;
+    padding-top: 2vw;
+    height: 35vh;
+    /* border-radius: 20px; */
+    /* margin-left: 2vw; */
+
+     
+}
+.iconic{
+    
+    margin-left: 1vw;
+    width: 4.5vw;
+    height: auto;
+    background-color: aliceblue;
+   
+    border-radius: 800px;
+    
+}
+.iconic i{
+    justify-content: space-around;
+    justify-content: center;
+    margin-left: -0.4vw;
+}
+.iconic i:hover{
+    color: crimson;
+    transition: 0.8s;
+}
+
+#send{
+    width: 38vw;
+    margin-left: -100px;
+    border-color: 2px solid rgb(14, 8, 4);
+    background-color: aliceblue;
+    border-radius: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 15vw;
+    font-size: 1.4vw;
+}
+
+
+
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.container ,section ,nav , .main-1 b {
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+
+
+@media only screen and (max-width:800px){
+    .show{
+        margin-left: 35vw;
+        /* font-size: 4vw; */
+    }
+    .nav-link{
+        font-size: 4vw;
+    }
+    #coffees{
+        margin-left: 3vw;
+    }
+    #sec_1 {
+        width: 100;
+        height: 78vh;
+        padding-top: 0.2vw;
+        padding-left: 2vw;
+    }
+    #nav_ul li {
+        padding-left: 29vw;
+        font-size: 4.5vw;
+    }
+    
+    #nav_ul {
+        padding-left: 15vw;
+    }
+    
+    #nav_ul li a:hover {
+        color: crimson;
+        transition: color 0.3s ease-in-out;
+    }
+    #logo_txt {
+        font-size: 9vw;
+        margin-left: 3vw;
+        font-weight: bold;
+    
+    }
+    
+    #sec_1{
+        width: 100%;
+        height: 27vh;
+        padding-top: 0.5vw;
+        padding-left: 2vw;
+    }
+    #sec_1{
+        width: 100%;
+    }
+    .d-flex{
+        width: 100%;
+
+    }
+    .main-3{
+        justify-content: center;
+        margin-left: -6vw;
+    }
+    
+    .main_2_box{
+        width: 100%;
+    }
+    #About_Our_shop{
+        font-size: 6vw;
+    }
+    #Coffee_distribution{
+        font-size: 4vw;
+    }
+    .main_2_box img{
+        width: 65vw;
+        margin-top: 9vw;
+        justify-content: space-around;
+    }
+    .d-flex{
+        display: flex;
+        flex-direction: column;
+    }
+    .row{
+        display: flex;
+        flex-direction: column;
+        /* justify-items: center; */
+        margin-left: 6vw;
+    }
+    .col-3{
+        margin-top: 4vw;
+    }
+    #main_5_row{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main_6_row{
+        display: flex;
+        flex-direction: column;
+    }
+    .sec_1{
+        width: 100%;
+    }
+    #main_6_img_1{
+        width: 52vw;
+    }
+   #main_6_img_2{
+    width: 52vw;
+   }
+   .main-6{
+    margin-left: -21px;
+   }
+   
+   #main_3_para{
+    width: 40vw;
+   }
+   .main_2_box{
+    margin-left: -20px;
+    width: 78vw;
+   }
+   .df_1{
+    display: flex;
+    flex-direction: column;
+   }
+
+
+   #coffo{
+    font-size: 15vw;
+   }
+   #hedding_1_CoffeShop{
+    font-size: 10vw;
+   }
+   #main_1_para{
+    font-size: 5vw;
+   }
+   #main_1_btn{
+    width: 40vw;
+    height: 8vh;
+    font-size: 4vw;
+    margin-top: 6vw;
+   }
+   #About_Our_shop{
+    font-size: 7vw;
+   }
+   #Coffee_distribution{
+    font-size: 5vw;
+   }
+   #main_3_para{
+    font-size: 3vw;
+   }
+   .Read_more{
+    width: 25vw;
+    font-size: 3vw;
+   }
+
+   .main_2_box img{
+    width: 70vw;
+    position: absolute;
+    right: 16vw;
+   }
+   .main-4{
+    margin-top: 70vw;
+   }
+   #OUR_Coffee_OFFER{
+    font-size: 7vw;
+   }
+   .card{
+    width: 20vw;
+   }
+   .card-title{
+    font-size: 4vw;
+    /* width: 600px; */
+   }
+   #What_syas_customers{
+    font-size: 6vw;
+    margin-top: 5vw;
+   }
+   .client_img img{
+    width: 30vw;
+    margin-left: 20vw;
+   }
+   #Joy{
+    font-size: 6vw;
+    margin-top: 5vw;
+   }
+   #main-5_p{
+    font-size: 3vw;
+   }
+
+
+   #our_blog{
+    font-size: 6vw;
+    margin-left: 3vw;
+   }
+   .main_6_box ,#main_6_b_2{
+    width: 57vw;
+    margin-left: 10vw;
+   }
+   .main_h2{
+    font-size: 3vw;
+   }
+   .main_6_pera{
+    font-size: 2vw;
+   }
+
+
+   .get_in_touch{
+    /* font-size: 100vw; */
+    font-size: 6vw !important;
+   }
+
+   input{
+    width: 60vw;
+    height: 10vh;
+    font-size: 3vw;
+   }
+   .send{
+    width: 26vw;
+    height: 10vh;
+    font-size: 3vw;
+   }
+
+   .main-9{
+    /* margin-left: -40px; */
+    display: none; 
+   }
+   
+   #footer{
+    padding-top: 2vw;
+    font-size: 2vw;
+   }
+   
+}
+
+@media only screen and (max-width:600px){
+    .cfcard{
+        width: 70vw;
+
+    }
+    .cfcard111{
+        width: 461px;
+    }
+    .d-flex{
+        width: 76vw;
+    }
+}
+
+/* samsung phones  */
+
+@media only screen and (max-width:412px){
+    #coffo{
+        font-size: 10vw;
+    }
+    #hedding_1_CoffeShop{
+        padding-top: 15vw;
+        font-size: 20vw;
+    }
+    #main_1_para{
+        font-size: 6vw;
+        padding-top: 9vw;
+    }
+    #main_1_btn{
+        
+        font-size: 6vw;
+        margin-top: 9vw;
+    }
+    .cfcard111{
+        width: 0px;
+    }
+    
+    .card{
+        width: 11rem ;
+    }
+     .starbucks{
+        margin-left: -10vw;
+    } 
+
+    /* main-1  */
+    #About_Our_shop{
+        font-size: 9vw;
+        margin-left: 2vw;
+    }
+    #Coffee_distribution{
+        font-size: 7vw;
+        margin-left: 2vw;
+    }
+    #main_3_para{
+        width: 86vw;
+        margin-left: 2vw;
+        font-size: 4.9vw;
+    }
+    .Read_more{
+
+        width: 48vw;
+        font-size: 6vw;
+        margin-left: 2vw;
+    }
+    #What_syas_customers{
+        margin-left: 2vw;
+        font-size: 7vw;
+        margin-top: 10vw;
+    }
+    .client_img img{
+        margin-left: 18vw;
+        width: 54vw;
+    }
+    #Joy{
+        font-size: 9vw;
+    }
+    #main-5_p{
+        font-size: 6vw;
+        width: 79vw;
+        margin-top: 3vw;
+        font-weight: 500;
+    }
+    #our_blog{
+        font-size: 9vw;
+        margin-left: 8vw;
+    }
+    .main_6_box , #main_6_b_2{
+        width: 83vw;
+        margin-left: 4vw;
+        height: 60vh;
+    }
+    #main_6_img_1,#main_6_img_2{
+        width: 76vw;
+    }
+    .main_h2 {
+        font-size: 5vw;
+    }
+    .main_6_pera {
+        font-size: 3vw;
+    }
+    .main_6_pera{
+        margin-top: 1vw;
+        font-size: 4.3vw;
+    }
+    .get_in_touch{
+        font-size: 9vw !important;
+
+    }
+    input {
+        width: 88vw;
+        height: 5vh;
+        font-size: 6vw;
+    }
+    .send {
+        width: 59vw;
+        height: 7vh;
+        font-size: 8vw;
+        margin-top: 7vw;
+    }
+    .main-8 img{
+        height: 19vh;
+    }
+    #footer {
+        padding-top: 8vw;
+        font-size: 3.5vw;
+    }
+    #contactForm label {
+        /* font-size: 3vw; */
+        font-size: 7vw;
+        margin-top: 2vw;
+        font-family: sans-serif;
+    }
+    #message{
+        width: 86vw;
+        padding: 3vw;
+        font-size: 7vw;
+       
+    }
+
+    
+} 
+@media only screen and(max-width:430px){
+    .cfcard111 {
+        width: 0px;
+    }
+}
+
+/* Basic fade-in animation */
+.fade-in {
+    opacity: 0;
+    transition: opacity 2s ease-in-out;
+}
+
+.fade-in.visible {
+    opacity: 1;
+}
+
+/* add animation */
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/* add transition */
+
+.card {
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+/* add box shadow */
+
+
+/* add hover effect */
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* add background color */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
